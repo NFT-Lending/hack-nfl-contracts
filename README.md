@@ -23,9 +23,8 @@ We are building to allow us to accumulate on top.
 
 
 ## Team
-Vasa : smart-contract lead
-Tony : full stack
-Théo : design and marketing
+- Tony : full stack
+- Théo : design and marketing
 
 
 ## Current state :
@@ -34,9 +33,9 @@ Alpha incoming 👀
 
 
 ## Road Map :
-Release pre-alpha
-Create community and pivot with them
-Extend number of ERC-721 supported
+- Release pre-alpha
+- Create community and pivot with them
+- Extend number of ERC-721 supported
 
 
 Links :
