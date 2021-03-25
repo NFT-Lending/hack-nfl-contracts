@@ -1,4 +1,4 @@
-# Bunchy
+# Bunchy [![Stake to support us](https://badge.devprotocol.xyz/0x28Ea94a44D5a85cAa13016d4eEFdfe5A669A2994/descriptive)](https://stakes.social/0x28Ea94a44D5a85cAa13016d4eEFdfe5A669A2994)
 
 ## About
 Bunchy Protocol is a lending market protocol bringing together the best of AAVE liquidity and NFTX pools 👻🐵💐
